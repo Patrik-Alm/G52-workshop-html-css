@@ -49,10 +49,11 @@ button {
     background-color: #4caf50;
     color: #fff;
     padding: 10px;
+    border: none;
     border-radius: 10px;
 }
 
-footer {
+.footer {
     margin-top: 20px;
     padding: 20px;
     background-color: #000;
