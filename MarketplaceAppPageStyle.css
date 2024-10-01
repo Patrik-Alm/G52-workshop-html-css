@@ -54,14 +54,12 @@ button {
 
 footer {
     margin-top: 20px;
-    margin-left: 25%;
     padding: 20px;
-    width: 50%;
-    height: 40px;
     background-color: #000;
     border-radius: 5px;
-    /* need a box-shadow effect here */
+    border: 1px solid;
+    box-shadow: 20x 20x darkblue;
+    /* need a box-shadow effect here but I can not see the effect from the above codeline */
     text-align: center;
     color: #fff;
-
 }
